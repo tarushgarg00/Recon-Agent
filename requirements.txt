@@ -1,0 +1,10 @@
+openai
+langchain
+langchain-openai
+langchain-text-splitters
+pydantic
+python-dotenv
+fastapi
+uvicorn[standard]
+requests
+numpy

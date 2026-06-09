@@ -1,0 +1,793 @@
+Data Center  
+Model Ordinance 
+August 2025 
+Revised April 2026 
+ 
+DATA CENTER MODEL ORDINANCE 
+Overview 
+The following document is a model ordinance 
+containing suggested language, including 
+terminology and definitions commonly used in 
+regulations for Data Centers.  
+This model ordinance serves as a summary 
+document of the various components that the York 
+County Planning Commission (YCPC) believes are 
+necessary for a municipality to consider when 
+evaluating the impacts of these uses on their 
+municipality. It should be the goal of the 
+municipality to clearly articulate their expectations 
+and requirements to any developers proposing 
+these uses within their municipality, as well as to 
+clearly address the concerns and interests of 
+municipal residents. 
+Municipalities are encouraged to alter the text of 
+this model ordinance to best suit their municipality, 
+as what works best for one municipality may not 
+provide the same results in another. There are 
+suggested sizes, distances, and thresholds 
+throughout this model ordinance that are 
+recommendations, and should be thoroughly 
+considered by municipal officials to determine if 
+these requirements make sense for their 
+municipality. Additional context has been provided 
+for some topics in sidebars throughout the 
+document. 
+As noted above, there are also sections of this 
+model ordinance that, while important topics for 
+consideration, 
+◼ May not be topics that municipalities currently 
+want to address 
+◼ Are topics that municipalities have already 
+addressed elsewhere in their ordinance 
+◼ Can be viewed as forward-thinking 
+Sections of this model ordinance that fall into 
+these categories are presented in blue text. 
+Municipalities are encouraged to review the 
+language in these sections to determine if these 
+are topics that make sense to address in their 
+Zoning Ordinance currently. 
+Municipalities protect and promote the safety, 
+health, and morals of their communities by 
+following and enforcing proper planning 
+procedures, ensuring that development within their 
+borders has been thoroughly considered well in 
+advance of the submittal of plans for development. 
+When considering where to permit and how to 
+regulate more intense uses (such as the ones 
+discussed in this model ordinance), municipalities 
+should conduct assessments to evaluate the 
+social, environmental, and economic impacts that 
+these types of uses could have on their 
+communities, and to determine where in their 
+municipalities these types of uses can safely 
+function. This type of assessment should be 
+conducted by municipalities during the planning 
+stage, when municipalities are considering adding 
+language to their ordinances. Early assessment of 
+the potential impacts of these more intense uses 
+during the planning stage minimizes the potential 
+for conflicts when a developer submits a land 
+development proposal. 
+As Data Center standards continue to evolve, 
+municipalities will be challenged to keep up with 
+them, let alone prepare in advance of any changes. 
+This model ordinance is presented based on 
+technology and knowledge available at this time. 
+As always, municipal staff and officials are 
+encouraged to reach out to YCPC staff if questions 
+arise regarding any of the content found within this 
+model ordinance.
+ 
+  
+DATA CENTER MODEL ORDINANCE 
+SECTION 100. DEFINITIONS 
+COMMUNITY NOISE EQUIVALENT LEVEL (CNEL) – The 24-hour A-weighted average sound level from midnight 
+to midnight, obtained after the addition of 5 dB to sound levels occurring in the evening from 7 PM to 10 PM 
+and after the addition of 10 dB to sound levels occurring in the night between 10 PM and 7 AM. 
+DATA CENTER – A facility used primarily for the storage, management, processing, and transmission of digital 
+data, which houses computer or network equipment, systems, servers, appliances and other associated 
+components related to digital data operations. 
+The facility may also include air handlers, power generators, water cooling and storage facilities, utility 
+substations, and other associated utility infrastructure to support sustained operations at the Data Center. 
+DATA CENTER ACCESSORY USE – Ancillary uses or structures secondary and incidental to a Data Center use, 
+including but not limited to: administrative, logistical, fiber optic, storage, and security buildings or structures; 
+sources of electrical power such as generators used to provide temporary power when the main source of 
+power is interrupted; electrical substations; utility lines, domestic and non-contact cooling water and 
+wastewater treatment facilities; water holding facilities; pump stations; water towers; environmental controls 
+(air conditioning or cooling towers; fire suppression, and related equipment), and security features, provided 
+such Data Center Accessory Uses/structures are located on the same tract or assemblage of adjacent parcels 
+developed as a unified development with a Data Center.  The use shall not include energy generation systems 
+used or intended to be used to supply power to the Data Center during normal operations. 
+DATA CENTER ELECTRICAL SUBSTATION – A facility used for the transformation or transmission and/or 
+switching of voltages to distribution voltages which switches circuits and distributes usable/consumable 
+electric power, specifically for Data Center users on the same or adjacent site, or on a site immediately across 
+a road right-of-way. 
+DATA CENTER PRINCIPAL BUILDING – A building that contains the office and/or data storage functions of a 
+Data Center. 
+FOOTCANDLE – Enough light to saturate a one-foot square with one lumen of light. 
+SENSITIVE RECEPTORS – Schools, preschools, day care centers, in-home daycares, health facilities such as 
+hospitals, long term care facilities, retirement and nursing homes, community centers, places of worship, 
+playgrounds, parks (excluding trails), campgrounds, prisons, dormitories, and any residence where such 
+residence is not located on a parcel with an existing industrial, commercial, or unpermitted use as determined 
+by the zoning officer. 
+Page 1 of 14 
+DATA CENTER MODEL ORDINANCE 
+SECTION 200. SPECIFIC USE CRITERIA 
+Data Centers 
+The following requirements shall apply to all Data Centers. In the event that any of the following regulations are 
+found to be in conflict with regulations found elsewhere in the (MUNICIPALITY) Zoning Ordinance, the most 
+restrictive regulations shall be applied, unless otherwise stated. 
+A. Building Placement and Orientation 
+(1) 
+(2) 
+(3) 
+All principal and accessory structures associated with a Data Center shall be arranged, designed, 
+and constructed to be harmonious and compatible with the site and with the surrounding 
+properties. In general, Data Centers that visually approximate commercial office buildings are 
+encouraged. 
+Buildings shall be sited and oriented to: 
+a. Minimize visual impacts of the bulk of the building when examined on a line-of-sight basis 
+from adjacent public streets and Sensitive Receptor areas. 
+b. Provide safe and convenient vehicular access to the site, including sufficient on-site queuing 
+areas at security gates. 
+c. Accommodate adequate parking. 
+d. Minimize impacts to natural resources. 
+Data Center campuses containing more than one building are encouraged to provide a variety in 
+building size, massing, siting, and appearance by transitioning from smaller or lower buildings 
+along street frontages to larger and taller structures on the interior of the site. Consideration of 
+topography shall be given to avoid placement of larger, taller, or more massive buildings in a 
+prominent location on the property or along a public street. 
+B. Maximum Height 
+The maximum building height for Data Centers shall be __ feet. 
+C. Setbacks 
+(1) 
+All principal buildings, accessory structures, and Data Center 
+Electric Utility Substations must be set back at least (150 – 
+200) feet from all property lines. 
+(2) 
+Parking lots for Data Centers shall be set back at least __ feet 
+from public road rights-of-way, and __ feet from all property 
+lines. 
+D. Parking Requirements 
+A minimum of 1 parking space per employee on the largest shift is 
+required, plus an additional 3 visitor spaces. 
+E. Off Street Loading 
+Building Height 
+Municipalities  
+should determine if 
+incorporating language that 
+allows for an increase in 
+building height with increased 
+building setbacks is a viable 
+option for their municipality. 
+A minimum of one loading space is required. Loading spaces/bays are only permitted to be located on one 
+façade of the Data Center Principal Building.  
+Page 2 of 14 
+F. Noise/Vibration 
+DATA CENTER MODEL ORDINANCE 
+(1) 
+(2) 
+(3) 
+(4) 
+CNEL 
+a. The Community Noise Equivalent Level (CNEL) at the boundary of the property containing a 
+Sensitive Receptor shall not exceed 60 dBA. 
+b. The CNEL at the boundary of any developed property not containing a Sensitive Receptor shall 
+not exceed 70 dBA. 
+c. Sound that is produced for not more than a cumulative period of one (1) minute in any hour 
+may exceed the standards above by up to ten (10) dBA. 
+d. The maximum sound levels listed above do not apply to emergency alerts, emergency work to 
+provide electricity, water, or other public utilities when public health or safety is involved, 
+snow removal, or road repair. 
+e. In addition to dBA levels, the developer will need to be able to show that C-weighted noise 
+(dBC) and Octave Bands (dBZ) will also be maintained at acceptable levels. 
+A noise reduction barrier or device may be required at the discretion of the zoning officer when it 
+is inconclusive that noise level tests do not conform to 
+acceptable noise levels. 
+Noise 
+The limitations of Section 200.F. herein shall not apply to any 
+Sensitive Receptor that is established adjacent to the Data 
+Center after the date of issuance of a certificate of completion 
+or occupancy for the applicant’s operation. 
+Sound Study 
+a. Any proposal for a Data Center shall include pre- and 
+post-construction sound studies which examine all 
+exterior utility functions of the building (rooftop and 
+ground-mounted) that produce sound. The sound studies 
+shall identify compliance with Section 200.F. as 
+applicable. The sound studies shall be conducted by an 
+Institute of Noise Control Engineering (INCE) Board 
+Certified Engineer and shall be subject to review and 
+approval by an engineer with experience in noise control 
+selected by the (MUNICIPALITY). 
+Limits for dBA, dBC, and dBZ 
+can vary based on the time of 
+day, zoning district 
+classification, and adjacent 
+uses. Municipalities should 
+consult with an acoustic 
+engineer or similar certified 
+professional to determine 
+what standards are best for 
+their municipality, and should 
+consider updating noise 
+standards for all uses, not just 
+Data Centers. 
+b. The pre-construction sound study shall be submitted with the (CONDITIONAL USE/SPECIAL 
+EXCEPTION) application. The pre-construction sound study shall recommend the sound 
+reducing materials or systems required to meet the aforesaid sound limits. 
+c. The post-construction sound study shall be conducted prior to issuance of the certificate of 
+occupancy. An as-built sound study may also be required thereafter by the (MUNICIPALITY) 
+upon request. If it is determined by the as-built sound study that there is a violation of the 
+aforesaid sound limits, the owner or occupant of the Data Center shall promptly remediate 
+the violation to achieve compliance with the sound limits. 
+G. Negative Impacts 
+Any use or activity producing air, dust, smoke, glare, exhaust, heat, or humidity in any form shall be carried 
+on in such a manner that it is not perceptible at or beyond the property line. 
+Page 3 of 14 
+H. Safety 
+DATA CENTER MODEL ORDINANCE 
+The equipment used in any Data Center operation shall be housed in a metered, electrically grounded, and 
+pre-engineered metal-encased structure with a fire rating designed to resist an internal electrical fire for at 
+least 30 minutes. The containment space shall contain baffles that automatically close in the event of fire, 
+independent of a possible electric system failure. 
+Any Data Center use proposing battery storage or any other device or group of devices capable of storing 
+energy in order to supply electrical energy at a later time, whether the energy is stored for use on-site or 
+off-site, shall demonstrate compliance with National Fire Protection Association (NFPA) Standard 855, 
+Installation of Stationary Energy Storage Systems, or similar standards and must include fire suppression 
+systems designed specifically for battery storage. 
+I. 
+J. 
+Power 
+Prior to approval of the certificate of completion or occupancy, the applicant shall provide written 
+verification from the applicable service provider stating the following: 
+(1) 
+Adequate capacity is available on the applicable supply lines and substation to ensure that the 
+capacity available to serve the other needs of the service area is consistent with the normal 
+projected load growth envisioned by the provider, 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+Utility supply equipment and related electrical infrastructure are sufficiently sized and can safely 
+accommodate the proposed use, 
+Any system designed for cooling and operation of the facility (electricity, water, or other means) 
+will be adequate and will not negatively impact the surrounding region, 
+The energy storage capacity of the system used (if applicable) will be defined, 
+Efforts will be made to maximize the use of renewable or clean energy, 
+The use will not cause electrical interference or fluctuations in line voltage on and off the 
+operating premises, and 
+Prior to approval of the certification of completion or occupancy, the applicant shall provide the 
+municipality with written verification that the electrical work has passed a third-party final 
+inspection. 
+Lighting 
+(1) 
+(2) 
+(3) 
+Horizontal Surfaces 
+For the lighting of predominantly horizontal surfaces, such as, but not limited to, parking areas, 
+roadways, vehicular and pedestrian passage areas, loading docks, building entrances, sidewalks, 
+bicycle paths, and site entrances, luminaires shall be aimed down, and shall meet Illuminating 
+Engineering Society of North America (IESNA) full cut-off/fully shielded criteria. 
+Non-Horizontal Surfaces 
+For the lighting of predominantly non-horizontal surfaces, such as, but not limited to, facades, 
+landscaping, and signs, luminaires shall be shielded and shall be installed and aimed to not 
+project their output into the windows of neighboring residences, adjacent uses, past the object 
+being illuminated, skyward, or onto a public roadway. 
+Adjacent Residential Uses 
+The illumination projected onto a residential use shall at no time exceed 0.1 footcandle, 
+measured line-of-sight and from any point on the receiving residential property.  
+Page 4 of 14 
+(4) 
+DATA CENTER MODEL ORDINANCE 
+Adjacent Non-Residential Uses 
+The illumination projected from any property onto a non
+residential use shall at no time exceed 0.5 initial footcandle, 
+measured line-of-sight from any point on the receiving property.  
+(5) 
+(6) 
+Glare 
+Vegetation screens shall not be employed to serve as the primary 
+means for controlling glare. Rather, glare control shall be 
+achieved by using means such as cutoff luminaires, shields and 
+baffles, and appropriate application of luminaire mounting height, 
+wattage, aiming angle, and luminaire placement. 
+LED Lights 
+Lighting 
+Adjacent to Non
+Residential Uses 
+Ordinances YCPC 
+reviewed for sample 
+language have shown 
+light trespass 
+maximums from 0.1 to 
+2.0 footcandles. 
+LED light sources shall have a correlated color temperature that does not exceed 3000K. 
+(7) 
+(8) 
+Luminaires 
+Luminaires shall not be mounted more than 20 feet above the finished grade of the surface being 
+illuminated. No pole-mounted lighting on the roof shall be permitted. 
+Lighting After Hours 
+Lighting for parking areas and vehicular traffic ways shall be automatically extinguished nightly 
+within ½ hour of the close of the facility. On/off control shall be by an astronomic programmable 
+controller with battery or capacitor power-outage reset. When after-hours site safety/security 
+lighting is proposed, such lighting shall not exceed 25% of the number of fixtures required or 
+permitted for illumination during regular business hours. Where there is reduced but continued 
+onsite activity throughout the night that requires site-wide even illumination, the use of dimming 
+circuitry to lower illumination levels by at least 50% after 11 PM or after regular business hours, or 
+the use of motion sensor control, shall be permitted. 
+K. Perimeter Fencing/Security 
+Fences shall not exceed __ feet in height above ground and shall be of high-quality design and materials. 
+L. Power Lines and Data Center Electric Utility Substations 
+(1) 
+(2) 
+(3) 
+(4) 
+Data Center Electric Utility Substations must include year-round opaque landscaping or a screen 
+wall a minimum of __ feet in height to minimize visual impact. 
+Electric Utility Substations on the same property as the Data Center they serve must be located on 
+the side or rear of a Data Center Principal Building so they are screened from public view and 
+must not be located in a required front yard. On-site substations do not require a buffer or 
+screening between the Data Center Principal Building and the substation.  
+Burying power lines serving the property is strongly encouraged. On-site power lines of 34.5 kV 
+and below must be buried. 
+The Data Center Electric Utility Substation shall be subject to applicable zoning district setback 
+requirements. Setbacks shall be measured from the edge of the compound containing the 
+substation to the property boundary of the lot it occupies.  
+Page 5 of 14 
+DATA CENTER MODEL ORDINANCE 
+M. Emergency Contact Information 
+Each Data Center operation shall provide 24-hour emergency contact signage visible at the access 
+entrance. Signs shall include the company name (if applicable), the owner/representative's name, the 
+telephone number, and the corresponding local power company's name and telephone number. 
+N. Sensitive Receptors 
+Unless physically impossible, energy substations, generators, HVAC units, and other noise and odor 
+creators shall be oriented away from abutting Sensitive Receptors. Screening as described in Section 
+200.O., “Buffer Yards and Screening” shall be provided. When making feasibility decisions, the 
+(MUNICIPALITY) must consider existing laws and regulations and balance public safety with the site 
+development’s potential impacts on nearby Sensitive Receptors. 
+O. Buffer Yards and Screening 
+All Data Center operations shall provide buffer yards and screening along all property boundary lines, 
+except for areas of ingress and egress into the site. 
+(1) 
+(2) 
+Service Areas - Loading bays, refuse collection areas, and service entrances shall be screened 
+from view from existing or planned public roads, Sensitive Receptors, and residential zoning 
+districts. Screening may include year-round landscaping or a screen wall of an appropriate height 
+to mitigate visual impacts as determined by a line-of-sight study submitted by the applicant. 
+Mechanical/Electrical Equipment Screening 
+a. Ground-Mounted 
+i. 
+ii. 
+iii. 
+Ground-mounted equipment adjacent to and serving the Data Center Principal Building 
+shall be completely screened behind an opaque wall or fence. When the equipment is 
+located between buildings, a combination of walls and gates may be used at the 
+openings between buildings. 
+When in or adjacent to an industrial use or zoning district, ground-mounted equipment 
+screening is only required from any existing or planned public road. 
+Ground-mounted equipment is prohibited in any required setback. 
+b. Roof-Top 
+i. 
+ii. 
+iii. 
+All roof-top-mounted equipment shall be screened by a parapet wall, equipment 
+penthouse, or visually solid screen on all four sides that is constructed of materials 
+complementary to those used in the exterior construction of the Data Center Principal 
+Building. This shall be accomplished by setting the penthouse or screened area back 
+from the façade of the building such that the top of the penthouse or screen is below a 
+45-degree line drawn from the top of the parapet. Roof-top equipment to be screened 
+includes, but is not limited to, the following: cooling, ventilation, and power supply 
+machinery. 
+Roof-top equipment that is visible above the parapet wall shall be set back from the 
+exterior or parapet wall a distance no less than the height of said equipment. 
+Roof-top equipment may exceed the applicable maximum district building height when 
+completely screened pursuant to this ordinance. 
+iv. Roof-top equipment may occupy up to a maximum of __% of the roof area when screened 
+per this ordinance and, when combined with the height of the Data Center building, does 
+not exceed the maximum building height requirement. 
+Page 6 of 14 
+(3) 
+Buffering 
+DATA CENTER MODEL ORDINANCE 
+a. Data Center sites abutting Sensitive Receptors or 
+collector/arterial roads must include an enhanced buffer yard 
+with required plantings located on an earthen berm with a grade 
+no steeper than 2:1. The minimum height of the berm abutting 
+Sensitive Receptors is __ feet, and abutting collector/arterial 
+roads is __ feet. 
+i. 
+ii. 
+Where the combined footprint of the principal structure or 
+structures is less than 100,000 square feet: 
+a. A minimum 100-foot buffer yard shall be provided along 
+the entire length of any public street frontage of any 
+property upon which the Data Center is located and 
+along any property line which abuts or is within 500 feet 
+of an existing residential property line or zone, school, 
+daycare center, hospital, place of worship, designated 
+park, or public open space. 
+b. A minimum 50-foot buffer yard shall be provided along 
+any property line adjacent to a non-residential use or 
+zone. 
+Where the combined footprint of the principal structure or 
+structures is between 100,000 square feet and 250,000 
+square feet: 
+Buffer Yards 
+and Screening 
+Municipalities often 
+already have buffer 
+yard and screening 
+requirements in place 
+elsewhere in their 
+zoning ordinance or 
+SALDO.  
+If your municipality 
+already has buffer 
+yard and screening 
+requirements, 
+consider directing 
+readers to those 
+sections instead of 
+duplicating 
+requirements. If 
+screening above and 
+beyond what already 
+is in place is required, 
+this would be the 
+section in which to 
+address it. 
+a. A minimum 150-foot buffer yard shall be provided along 
+the entire length of any public street frontage of any 
+property upon which the Data Center is located and 
+along any property line which abuts or is within 500 feet of an existing residential 
+property line or zone, school, daycare center, hospital, place of worship, designated 
+park, or public open space. 
+b. A minimum 50-foot buffer yard shall be provided along all other property lines. 
+iii. 
+Where the combined footprint of the principal structure or structures exceeds 250,000 
+square feet: 
+a. A minimum 300-foot buffer yard shall be provided along the entire length of any 
+public street frontage of any property upon which the Data Center is located and 
+along any property line which abuts or is within 500 feet of an existing residential 
+property line or zone, school, daycare center, hospital, place of worship, designated 
+park, or public open space. 
+b. A minimum 50-foot buffer yard shall be provided along all other property lines. 
+iv. Utilities should be located outside of buffer yards to the maximum extent feasible to 
+maintain a cohesive buffer yard, protect landscaping, and preserve open space. Utilities 
+should be co-located when feasible to minimize the number of utility crossings through 
+the required buffer yard, particularly when such crossings cannot be avoided. 
+v. 
+Use of existing vegetation for landscaping and screening is strongly encouraged and may 
+be substituted for new berms and plantings if approved by the (MUNICIPAL GOVERNING 
+BODY). 
+Page 7 of 14 
+DATA CENTER MODEL ORDINANCE 
+vi. The required number of plant units shall be calculated in accordance with other 
+municipal screening requirements. 
+vii. Buffer yards along roadways shall be measured from the street right-of-way line. 
+viii. Where a lot line drainage or utility easement is required, the buffer yard shall be 
+measured from the inside edge of the easement. 
+ix. 
+x. 
+xi. 
+Buffer yards shall not include environmental encumbrances such as, but not limited to, 
+wetlands, wetland transition areas, riparian buffers, and flood hazard areas as may be 
+imposed by outside agencies. 
+The buffer yard shall include a dense landscape buffer consisting of the following: 
+a. One (1) large evergreen tree per 25 linear feet of buffer. The size of large evergreen 
+trees shall be a minimum of eight (8) feet in height at the time of planting. 
+Narrow/upright evergreen species may also be used within buffers at a ratio of 3:1. 
+No more than 25% of the total required large evergreen species can be substituted 
+with narrow/upright species. 
+b. One (1) canopy (shade) tree per 75 linear feet of buffer. The size of canopy (shade) 
+trees shall be a minimum of 2 ½ inch caliper at the time of planting. 
+c. One (1) ornamental/flowering tree per 50 linear feet of buffer. The size of 
+ornamental/flowering trees shall be a minimum of eight (8) feet in height for multi
+stemmed varieties, or 2 ½ inch caliper at the time of planting for single-stemmed 
+varieties. 
+d. Five (5) shrubs per 25 linear feet of buffer. Shrubs shall be fully branched and a 
+minimum of three (3) feet in height at the time of planting. Shrubs shall be a 
+combination of evergreen and deciduous species, with a minimum of 50% evergreen. 
+The landscape buffer shall be located along the outer edge of the buffer yard. 
+xii. Plant material within buffer plantings shall meet the following requirements: 
+a. Be resistant to diesel exhaust. 
+b. Not identified on the most current Pennsylvania Department of Conservation and 
+Natural Resources (DCNR) invasive species or watch lists. 
+c. Be hardy within United States Department of Agriculture (USDA) hardiness Zones 6 
+and 7. 
+d. Shall be planted on the top and the exterior of any berm in order to provide effective 
+screening. 
+e. Shall be arranged in groupings to allow for ease of maintenance and to provide a 
+natural appearance. 
+f. 
+Shall provide a diversity in plant species, such that no one species accounts for more 
+than 25% of each plant type. 
+g. The plantings shall be arranged to provide a complete visual screen of the property at 
+least 12 feet in height, measured in addition to the height of any required berm, 
+within three (3) years. 
+xiii. The buffer yard may be located within the required building setback lines. No impervious 
+surface is permitted within the buffer yard aside from access drives, sidewalks, and 
+associated improvements.  
+Page 8 of 14 
+DATA CENTER MODEL ORDINANCE 
+P. Environmental and Community Impact Analysis 
+Prior to the commencement of the (CONDITIONAL USE/SPECIAL EXCEPTION) hearing, the applicant shall 
+provide an environmental and community impact analysis. The environmental and community impact 
+analysis shall include: 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+A narrative description prepared by a professional engineer, ecologist, environmental planner or 
+other qualified individual, of the proposed nature of the on-site activities and operations, including 
+the market area served by the facility, the hours of operation of the facility, the total number of 
+employees on each shift, the times, frequencies, and types of vehicle trips generated, the types of 
+materials stored and the duration period of storage of materials, and the relationship to other 
+projects or proposals. The description shall focus on the elements of the environment most likely 
+to be affected as well as potential regional effects and ecological interrelationships. 
+A site plan of the property indicating the location of proposed improvements, flood plains, 
+wetlands, waters of the Commonwealth, and cultural and historic resources on the property and 
+within 500 feet of the boundaries of the property, and the potential for public nuisance to 
+residents resulting from operations. 
+Evidence that the disposal of materials will be accomplished in a 
+manner that complies with state and federal regulations. 
+An evaluation of the potential impacts of the proposed use, both 
+positive and negative, upon: 
+a. Emergency services and fire protection, 
+b. Water supply, 
+c. Sewage disposal, 
+d. Solid waste disposal, 
+e. School facilities and school district budget, 
+f. 
+Municipal revenues and expenses, and 
+g. Stormwater. 
+Any environmental impacts that are likely to be generated (i.e.., 
+odor, noise, smoke, dust, litter, glare, heat islands, vibration, 
+electrical disturbance, wastewater, stormwater, solid waste, etc.) 
+and specific measures employed to mitigate or eliminate any 
+negative impacts. The applicant shall further furnish evidence 
+that the impacts generated by the proposed use fall within 
+acceptable levels, as regulated by applicable laws and 
+ordinances. 
+Water Supply 
+Data Centers often use 
+water to assist with 
+equipment cooling and 
+humidity maintenance 
+within their operations.  
+Water consumption can 
+vary based on the size of 
+the project. It is 
+important for 
+municipalities to require 
+proposed Data Center 
+development to clearly 
+articulate water needs, 
+use, availability, 
+recycling and/or release 
+procedures, and local 
+and regional impacts on 
+water resources. 
+The applicant shall identify all stationary and mobile sources of particulate matter (PM2.5) volatile 
+organic compounds, and nitrogen oxides at the site.  The applicant shall specify best management 
+practices for preventing and reducing the concentration of air polluting emissions at the site. 
+(7) 
+Consistency with the (MUNICIPALITY) and county comprehensive plan. The applicant shall submit 
+an assessment report of the impact of the proposed use on the goals of the respective plans. 
+Where the proposed use conflicts with the comprehensive plan, the analysis report shall identify 
+mitigation measures that may be undertaken to offset any degradation, diminution, or depletion 
+of public natural resources. 
+Page 9 of 14 
+(8) 
+DATA CENTER MODEL ORDINANCE 
+Critical impact areas. In addition to the above, plans should include any area, condition, or feature 
+that is environmentally sensitive or that, if disturbed during construction, would have an adverse 
+impact on the environment. 
+a. Critical impact areas include, but are not limited to, floodplains, riparian buffers, streams, 
+wetlands, slopes greater than 15%, highly acidic or highly erodible soils, hydric soils, 
+hydrologic soil groups, areas of high-water table, and mature stands of native vegetation and 
+aquifer recharge and discharge areas. 
+b. A statement of impact upon critical areas and of adverse impacts that cannot be avoided is 
+required to be submitted with the analysis, along with proposed environmental protection 
+measures, procedures, and schedules to minimize damage to critical impact areas during and 
+after construction. 
+(9) 
+If modular, factory-built construction is proposed, details of its construction shall be provided to 
+the (MUNICIPALITY) for review/approval. 
+Q. Building Colors/Materials 
+External building materials and colors should reflect the character of the surrounding environment and 
+structures. 
+R. Emergency Responders 
+The applicant shall coordinate with the (MUNICIPALITY) emergency management coordinator to ensure 
+there is adequate radio coverage for emergency responders within the building based upon the existing 
+coverage levels of the (MUNICIPALITY) Public Safety Radio Communications System at the exterior of the 
+building, and shall install enhancement systems as needed to meet compliance. 
+(1) 
+(2) 
+The applicant shall submit an Emergency Response Plan (ERP) prepared by a qualified 
+professional. The ERP shall: 
+a. Be reviewed by the local fire department and emergency management services as part of the 
+land development process; 
+b. Include detailed procedures for fire suppression, containment, ventilation, and evacuation; 
+c. Include an evaluation of the adequacy of the local fire department equipment; 
+d. Include an evaluation of the access roads and hydrant locations within the site to ensure 
+suitable access for emergency equipment within the site; 
+e. Ensure that all first responders receive adequate training specific to the installed system; 
+f. 
+Include provisions for annual fire safety inspections demonstrating compliance with fire safety 
+standards to be performed by a qualified professional on behalf of the Data Center. 
+Each Data Center operation shall provide 24-hour emergency contact signage visible at the 
+access entrance. Signs shall include the company name (if applicable), the 
+owner/representative's name, the telephone number, and the corresponding local power 
+company's name and telephone number. 
+S. Decommissioning 
+Data Centers are recognized as a distinct use that warrants special consideration due to their limited 
+operational lifespans and the potential for residual materials or infrastructure that may require specialized 
+removal or remediation at the end of use. Given the rapid evolution of data storage and processing 
+technologies, applicants shall submit a decommissioning plan for removal of obsolete equipment and site 
+Page 10 of 14 
+DATA CENTER MODEL ORDINANCE 
+restoration at the end of the facility’s operational life. Such plan shall address dismantling and removal of 
+all equipment and appurtenances related thereto, including but not limited to special cabling and electrical 
+components, electronic equipment, special cooling equipment, special power generation, batteries and 
+other associated facilities from the property to a condition where the building and property may be reused 
+for another purpose. These provisions are intended to ensure compatibility with surrounding land uses, 
+maintain long-term land use flexibility, and promote the orderly reuse or redevelopment of the property.  
+When the operation of the Data Center ceases, the recycling or responsible disposal of decommissioned 
+hardware and materials shall be prioritized to reduce environmental impact. The operator shall partner 
+with certified E-waste recycling facilities to ensure the proper handling and recycling of electronic 
+components. 
+Prior to issuance of a certificate of occupancy for a Data Center, the owner shall provide financial security, 
+in the form and amount of a bond, irrevocable letter of credit, or other financial security acceptable to the 
+(MUNICIPALITY), to secure the expense of decommissioning, dismantling, removing, and disposal of the 
+Data Center specific components and equipment, in the amount of 110% of the estimated 
+decommissioning cost minus the salvageable value of the Data Center. The (MUNICIPALITY) reserves the 
+right to review once every five (5) years an engineer’s new estimate of probable cost of decommissioning, 
+which shall be submitted for approval in the same manner as the initial submission. The bond, letter of 
+credit, or other financial security acceptable to the (MUNICIPALITY) shall be increased or decreased, as 
+appropriate, upon a finding by the (MUNICIPAL GOVERNING BODY) that the new estimate appropriately 
+addresses the probable cost of decommissioning.  The owner of the Data Center shall pay for all fees 
+associated with the review and approval of each such decommissioning cost estimate by the 
+(MUNICIPALITY) Engineer. 
+T. Green Building Techniques 
+Data Centers are encouraged to implement low-impact development practices in site design and energy 
+efficiency, such as, but not limited to, the following: 
+(1) 
+Site Design 
+a. Select sites that avoid sensitive lands such as wetlands, floodplains, and steep slopes 
+b. Minimize land disturbance 
+c. Maximize tree preservation 
+d. Minimize impervious surfaces 
+e. Minimize potential nuisance impacts (noise, glare, vibration, etc.) on adjacent properties, 
+public roadways, and the vicinity 
+(2) 
+Energy/Resource Efficiency 
+a. Orient buildings to take advantage of passive cooling and daylight opportunities 
+b. Utilize alternative energy sources (solar, wind, hydro, etc.) as much as possible 
+c. Provide an energy storage system to monitor and regulate usage of alternative energy for 
+usage during off-peak hours 
+d. Utilize reclaimed water for cooling, if available, promoting its use to regulate cooling output in 
+real-time on workload demands 
+e. Incorporate waste heat recovery systems for use on or off-site, and set measurable goals for 
+its implementation 
+f. 
+Encourage systems that limit the use of finite natural resources and their disposal 
+Page 11 of 14 
+DATA CENTER MODEL ORDINANCE 
+g. Encourage fuel storage that limits impacts on the environment from potential spills 
+h. Install water-efficient landscape materials 
+i. 
+Utilize LED exterior/interior lighting 
+U. LEED Certification 
+The implementation of energy management best practices and carbon reduction techniques such as, but 
+not limited to, those promoted through the U.S. Department of Energy’s Better Buildings Initiative and U.S. 
+Green Building Council’s Leadership in Energy and Environmental Design (LEED) Certification system is 
+strongly encouraged. 
+V. Woodland Disturbance 
+Woodland disturbance, including alteration or removal of any hedgerows, shall be minimized. No portions 
+of tree masses, tree lines, hedgerows, or individual freestanding trees measuring six (6) inches or greater 
+in diameter at breast height (DBH) shall be removed unless it is clearly necessary to effectuate the 
+proposed development. In no case shall more than 50% of any existing tree masses, tree lines, hedgerows, 
+or individual freestanding trees with six (6)-inch or greater DBH be removed. For purposes of this 
+subsection, a woodland is defined as a tree mass or plant community in which tree species are dominant 
+or codominant and the branches of the trees form a complete, or nearly complete, aerial canopy. Any area, 
+grove, or stand of mature or largely mature trees (i.e., six (6)-inch or greater DBH) covering an area of .25 
+of an acre or more, or consisting of more than 50 individual trees six (6) inches or greater DBH, shall be 
+considered a woodland. 
+W. Threatened and Endangered Species 
+(1) 
+(2) 
+PNDI 
+A Pennsylvania Natural Heritage Program study (PNDI Receipt) dated within two (2) years of the 
+submission of an application for conditional use/special exception or subdivision and land 
+development, whichever is first, as well as any state agency clearance letters required thereby, 
+shall be provided to the municipality. 
+Compliance 
+The applicant shall comply with all measures directed by the clearance letters to avoid, minimize, 
+or mitigate impacts to endangered, threatened, and special concern species and their habitat. 
+X. Riparian Forest Buffer Area 
+Data Centers subject to the requirements of this Section must satisfy the stricter of the requirements of 
+this Section, or of 25 Pa. Code 102.14, Riparian Buffer Requirements. 
+(1) 
+(2) 
+For purposes of this Section, a riparian buffer is an area of permanent vegetation along a 
+waterway that is left undisturbed to allow for the natural succession of native vegetation. A 
+riparian forest buffer is a type of riparian buffer that consists predominantly of native trees, 
+shrubs, and forbs, providing at least 60% uniform canopy cover. 
+Where the project site contains, is along, or is within 150 feet of a perennial or intermittent river, 
+stream, creek, lake, wetland, floodplain, pond, or reservoir, whether natural or artificial, the use 
+will be subject to the requirements of this Section and shall, in accordance with the requirements 
+of this subsection, do one of the following: 
+a. Protect an existing riparian forest buffer 
+b. Convert an existing riparian buffer to a riparian forest buffer 
+Page 12 of 14 
+DATA CENTER MODEL ORDINANCE 
+c. Establish a new riparian forest buffer 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+(8) 
+(9) 
+(10) 
+Where a riparian forest buffer exists, it shall be left intact to meet the width requirements in 
+subsections (6) and (7). An existing riparian forest buffer need not be altered to establish 
+individual Zones 1 and 2 under subsection (9). 
+Riparian buffers that consist predominantly of native woody vegetation that do not satisfy the 
+composition requirements for a riparian forest buffer in subsection (1) or the width requirements 
+in subsections (6) and (7) shall be enhanced or widened, or both, by additional plantings in open 
+spaces around existing native trees and shrubs to provide at least 60% uniform canopy cover for 
+the required width and shall be composed of zones in accordance with subsection (9). 
+On sites without native woody vegetation, a riparian forest buffer providing at least 60% uniform 
+canopy cover shall be established to meet the width requirements in subsections (6) and (7) and 
+be composed of zones in accordance with subsection (9). 
+The width of the riparian forest buffer shall be a minimum of 100 feet on each side of the water 
+body as measured from the top of the bank. The boundary of the buffer shall follow the natural 
+streambank or shoreline. 
+Measured within the 100-foot buffer, the following additional distances shall be added to the 
+minimum width of the riparian forest buffer: 
+a. 10 feet if the average slope is 10-15%, 
+b. 20 feet if the average slope is 16-17%, 
+c. 30 feet if the average slope is 18-20%, 
+d. 50 feet if the average slope is 21-23%, 
+e. 60 feet if the average slope is 24-25%, or 
+f. 
+70 feet if the average slope exceeds 25%. 
+In the case of the presence of a nontidal wetland or vernal pond wholly or partially within the 
+riparian buffer area, an additional 25 feet shall be added to the width of the riparian forest buffer 
+area for that portion of the buffer area along the wetland, floodplain, or pond. 
+A new riparian forest buffer or a converted riparian forest buffer shall be composed of zones as 
+follows: 
+a. Zone 1 shall begin at the top of the streambank or normal pool elevation of a lake, pond, or 
+reservoir and occupy a strip of land 50 feet in width, measured horizontally on a line 
+perpendicular from the top of the streambank or normal pool elevation of a lake, pond, or 
+reservoir. Predominant vegetation must be composed of a variety of native riparian tree 
+species identified in Appendix C.1 of the PA Department of Environmental Protection 
+Guidance Document 394-5600-001, entitled Riparian Forest Buffer Guidance. 
+b. Zone 2 shall begin at the landward edge of Zone 1 and occupy an additional strip of land a 
+minimum of 50 feet in width, measured horizontally on a line perpendicular from the top of 
+the streambank or normal pool elevation of a lake, pond, or reservoir. Predominant 
+vegetation must be composed of a variety of native riparian trees and small tree/shrub 
+species identified in Appendix C.1 of the PA Department of Environmental Protection 
+Guidance Document, 394-5600-001, entitled Riparian Forest Buffer Guidance. 
+No earth disturbance, land development, or storing or stockpiling of materials shall occur within 
+the riparian forest buffer area. 
+Page 13 of 14 
+(11) 
+DATA CENTER MODEL ORDINANCE 
+In the management of riparian buffers, noxious weeds and invasive species shall be removed or 
+controlled to the greatest extent possible. 
+(12) 
+(13) 
+Existing, converted, and newly established riparian buffers, including access easements, must be 
+protected in perpetuity through deed description, conservation easement, permit conditions, or 
+any other mechanisms that ensure the long-term functioning and integrity of the riparian buffer. 
+The riparian buffer shall be designated on the final subdivision and/or land development plan. 
+Page 14 of 14

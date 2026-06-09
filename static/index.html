@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Recon</title>
+    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/v3.11.0/mapbox-gl.css" />
+    <link rel="stylesheet" href="/styles.css" />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.11.0/mapbox-gl.js"></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span>Recon</span>
+      </div>
+      <p class="explainer">Recon evaluates sites for data center development using real flood, power-grid, elevation, and zoning data, and shows every step it takes.</p>
+    </header>
+
+    <main class="shell">
+      <section class="map-panel" aria-label="Map and confirmed sites">
+        <div class="panel-head">
+          <h2>Site &amp; Map</h2>
+        </div>
+        <div class="address-row">
+          <input id="addressInput" type="search" placeholder="Search an address" autocomplete="off" />
+          <button id="geocodeBtn" type="button">Find</button>
+        </div>
+        <div id="mapStatus" class="map-status" role="status"></div>
+        <div id="map"></div>
+        <div class="pin-actions">
+          <button id="confirmPinBtn" type="button">Confirm pin</button>
+          <button id="clearPinsBtn" type="button">Clear pins</button>
+        </div>
+        <ul id="siteList" class="site-list" aria-label="Confirmed sites"></ul>
+      </section>
+
+      <section class="chat-panel" aria-label="Agent chat">
+        <div class="panel-head">
+          <h2>Chat</h2>
+        </div>
+        <div id="messages" class="messages"></div>
+        <p class="shortcut-help">Full evaluation = deep brief. Quick go/no-go = fast screen. Rank sites = compare confirmed sites. Risk deep-dive = detailed risk review.</p>
+        <div class="mode-row" aria-label="Mode presets">
+          <button class="mode-btn" type="button" data-mode="brief" title="A complete write-up of one site.">Full evaluation</button>
+          <button class="mode-btn" type="button" data-mode="screen" title="A fast check if a site is worth a closer look.">Quick go / no-go</button>
+          <button class="mode-btn" type="button" data-mode="compare" title="Evaluate several confirmed sites and rank them.">Rank sites</button>
+          <button class="mode-btn" type="button" data-mode="diligence" title="A detailed review of one site and what to verify.">Risk deep-dive</button>
+        </div>
+        <form id="chatForm" class="chat-form">
+          <textarea id="chatInput" rows="3" placeholder="Ask anything about a site, screen, comparison, or diligence question."></textarea>
+          <button id="sendBtn" type="submit">Send</button>
+        </form>
+      </section>
+
+      <aside class="trace-panel" aria-label="Agent trace">
+        <div class="trace-head">
+          <h2>Agent Trace</h2>
+          <div class="trace-metrics">
+            <span><strong id="loopCount">0</strong> loops</span>
+            <span><strong id="historyCount">0</strong> saved</span>
+          </div>
+        </div>
+        <ol id="traceList" class="trace-list"></ol>
+      </aside>
+    </main>
+
+    <section id="resultSection" class="result-section" aria-label="Finished result">
+      <div class="result-inner">
+        <div class="result-title">
+          <span class="eyebrow">Finished artifact</span>
+          <h2>Result</h2>
+        </div>
+        <div id="resultPanel" class="result-panel">
+          <div class="result-empty">Your site evaluation will appear here.</div>
+        </div>
+      </div>
+    </section>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
