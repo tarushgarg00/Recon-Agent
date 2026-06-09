@@ -47,6 +47,7 @@ async def clean_error(_, exc: Exception):
             "needs_input": True,
             "trace": [],
             "loops": 0,
+            "event_count": 0,
             "history_count": 0,
             "error": str(exc),
         },
@@ -78,6 +79,7 @@ def chat(req: ChatRequest):
                 "needs_input": True,
                 "trace": [],
                 "loops": 0,
+                "event_count": 0,
                 "history_count": 0,
             },
         )  # Returns clean JSON to the frontend even when a tool or model call fails.
@@ -110,6 +112,7 @@ def chat_stream(req: ChatRequest):
                         "needs_input": True,
                         "trace": [],
                         "loops": 0,
+                        "event_count": 0,
                         "history_count": 0,
                     },
                 }

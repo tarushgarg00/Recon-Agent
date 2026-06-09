@@ -13,13 +13,12 @@
       <div class="brand">
         <span>Recon</span>
       </div>
-      <p class="explainer">Recon evaluates sites for data center development using real flood, power-grid, elevation, and zoning data, and shows every step it takes.</p>
     </header>
 
     <main class="shell">
       <section class="map-panel" aria-label="Map and confirmed sites">
         <div class="panel-head">
-          <h2>Site &amp; Map</h2>
+          <h2>Site Selection</h2>
         </div>
         <div class="address-row">
           <input id="addressInput" type="search" placeholder="Search an address" autocomplete="off" />
@@ -28,23 +27,23 @@
         <div id="mapStatus" class="map-status" role="status"></div>
         <div id="map"></div>
         <div class="pin-actions">
-          <button id="confirmPinBtn" type="button">Confirm pin</button>
-          <button id="clearPinsBtn" type="button">Clear pins</button>
+          <button id="confirmPinBtn" type="button">Confirm site</button>
+          <button id="clearPinsBtn" type="button">Clear</button>
         </div>
         <ul id="siteList" class="site-list" aria-label="Confirmed sites"></ul>
       </section>
 
       <section class="chat-panel" aria-label="Agent chat">
         <div class="panel-head">
-          <h2>Chat</h2>
+          <h2>Ask Recon</h2>
         </div>
         <div id="messages" class="messages"></div>
-        <p class="shortcut-help">Full evaluation = deep brief. Quick go/no-go = fast screen. Rank sites = compare confirmed sites. Risk deep-dive = detailed risk review.</p>
+        <p class="shortcut-help">Full diligence = deep brief. Go / No-Go = fast screen. Compare sites = rank confirmed sites. Risk deep dive = detailed risk review.</p>
         <div class="mode-row" aria-label="Mode presets">
-          <button class="mode-btn" type="button" data-mode="brief" title="A complete write-up of one site.">Full evaluation</button>
-          <button class="mode-btn" type="button" data-mode="screen" title="A fast check if a site is worth a closer look.">Quick go / no-go</button>
-          <button class="mode-btn" type="button" data-mode="compare" title="Evaluate several confirmed sites and rank them.">Rank sites</button>
-          <button class="mode-btn" type="button" data-mode="diligence" title="A detailed review of one site and what to verify.">Risk deep-dive</button>
+          <button class="mode-btn" type="button" data-mode="brief" title="A complete write-up of one site.">Full diligence</button>
+          <button class="mode-btn" type="button" data-mode="screen" title="A fast check if a site is worth a closer look.">Go / No-Go</button>
+          <button class="mode-btn" type="button" data-mode="compare" title="Evaluate several confirmed sites and rank them.">Compare sites</button>
+          <button class="mode-btn" type="button" data-mode="diligence" title="A detailed review of one site and what to verify.">Risk deep dive</button>
         </div>
         <form id="chatForm" class="chat-form">
           <textarea id="chatInput" rows="3" placeholder="Ask anything about a site, screen, comparison, or diligence question."></textarea>
@@ -57,7 +56,8 @@
           <h2>Agent Trace</h2>
           <div class="trace-metrics">
             <span><strong id="loopCount">0</strong> loops</span>
-            <span><strong id="historyCount">0</strong> saved</span>
+            <span class="metric-sep">·</span>
+            <span><strong id="eventCount">0</strong> events</span>
           </div>
         </div>
         <ol id="traceList" class="trace-list"></ol>
@@ -67,11 +67,11 @@
     <section id="resultSection" class="result-section" aria-label="Finished result">
       <div class="result-inner">
         <div class="result-title">
-          <span class="eyebrow">Finished artifact</span>
-          <h2>Result</h2>
+          <span id="artifactKicker" class="eyebrow">ARTIFACT READY</span>
+          <h2 id="artifactTitle">Recon Analysis</h2>
         </div>
         <div id="resultPanel" class="result-panel">
-          <div class="result-empty">Your site evaluation will appear here.</div>
+          <div class="result-empty">Your generated output will appear here when Recon finishes.</div>
         </div>
       </div>
     </section>
