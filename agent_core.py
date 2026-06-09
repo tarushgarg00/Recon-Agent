@@ -17,7 +17,7 @@ from pydantic import BaseModel, Field
 
 
 MODEL = "gpt-4o-mini"
-DB_PATH = "sites.db"
+DB_PATH = os.path.join("/tmp", "sites.db") if os.getenv("VERCEL") else "sites.db"  # Vercel functions can only write SQLite files under /tmp.
 HIFLD_SUBSTATIONS_URL = "https://services5.arcgis.com/HDRa0B57OVrv2E1q/ArcGIS/rest/services/Electric_Substations/FeatureServer/0/query"
 
 
