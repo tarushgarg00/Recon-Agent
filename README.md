@@ -162,11 +162,3 @@ Open `http://127.0.0.1:8000`, search an address, confirm a pin, then ask a quest
 or choose a mode. Watch Agent Trace fill in as Recon works.
 
 ---
-
-## Honest limits
-
-- FEMA, HIFLD/Open, and USGS are public sources and may be unavailable or incomplete.
-- EIA regional power context needs an `EIA_API_KEY`.
-- Public data does not prove deliverable interconnection capacity.
-- The score is a screening signal, not a substitute for engineering, legal, utility,
-  ISO queue, environmental, or civil diligence.
